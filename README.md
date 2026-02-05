@@ -52,6 +52,9 @@ Integrate real-world datasets
 
 Include hypothesis testing
 
+Automate report generation
+
+
 ---
 
 ## How to Run
@@ -62,6 +65,5 @@ python data_analysis.py
 
 
 
-Automate report generation
 
 
