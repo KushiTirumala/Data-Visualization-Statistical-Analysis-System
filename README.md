@@ -34,16 +34,6 @@ The goal is to **communicate insights clearly through visual dashboards and plot
 - **Matplotlib** – data visualization
 
 ---
-
-
----
-
-## How to Run
-
-```bash
-pip install pandas numpy matplotlib
-python data_analysis.py
-
 Sample Insights Generated
 
 Summary statistics of numerical features
@@ -61,6 +51,16 @@ Add interactive dashboards using Power BI or Tableau
 Integrate real-world datasets
 
 Include hypothesis testing
+
+---
+
+## How to Run
+
+```bash
+pip install pandas numpy matplotlib
+python data_analysis.py
+
+
 
 Automate report generation
 
